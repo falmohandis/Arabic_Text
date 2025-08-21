@@ -2,7 +2,9 @@
 # First Started 08.15.25
 # Basic Structure of this markdown file was initially generated using ChatGPT
 
+I am an avid reader of Arabic texts and at times, I find that there are large chunks of text that I wish to be able to copy quotes from in my other writings...but there are often-times no selectable versions of the text!
 
+This project works to turn entire PDFs into selectable texts so that I can better reference when I write my reviews of these works.
 
 ## 📌 Project Overview
 This project builds a pipeline to convert **Arabic PDFs** into **editable documents** by:
@@ -31,7 +33,7 @@ The result is a **fully editable document** with preserved formatting, clean Ara
   - Image processing: `Pillow`, `OpenCV`
   - Document creation: `python-docx`, Markdown/HTML generators
 - [ ] Install **Tesseract OCR** and configure path in Python.
-- [ ] Create folder structure:
+- [-] Create folder structure:
 
 /input_pdfs/
 /page_images/
@@ -41,7 +43,7 @@ The result is a **fully editable document** with preserved formatting, clean Ara
 
 
 **Dates:**
-- ⏳ Started:  
+- ⏳ Started:  08.15.25
 - ✅ Completed:  
 
 ---
@@ -55,8 +57,8 @@ The result is a **fully editable document** with preserved formatting, clean Ara
 - [ ] Save with clear names (`file_pagenumber.png`).
 
 **Dates:**
-- ⏳ Started:  
-- ✅ Completed:  
+- ⏳ Started:  08.20.25
+- ✅ Completed:  08.20.25
 
 ---
 
